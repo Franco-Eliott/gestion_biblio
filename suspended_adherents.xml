@@ -1,0 +1,18 @@
+<suspendedAdherents>
+    <adherent>
+        <id></id>
+        <nom></nom>
+        <adresse></adresse>
+        <emprunts>
+            <emprunt>
+                <idEmp></idEmp>
+                <livres>
+                    <livre>
+                        <refLivre></refLivre>
+                        <titre></titre>
+                    </livre>
+                </livres>
+            </emprunt>
+        </emprunts>
+    </adherent>
+</suspendedAdherents>
